@@ -1,6 +1,6 @@
 {
   "name": "vue-typist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A component for Vue.js that simulates a real person typing and deleting their text.",
   "main": "dist/typist.umd.js",
   "module": "dist/typist.esm.js",
